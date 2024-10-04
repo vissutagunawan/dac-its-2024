@@ -1,5 +1,5 @@
 https://www.kaggle.com/code/kanncaa1/feature-selection-and-data-visualization
-https://www.kaggle.com/code/vissutagunawanlim/notebookf3c5fb3f6b/edit
+https://www.kaggle.com/code/vissutagunawanlim/notebookf3c5fb3f6b/
 
 # EDA
 ```python
